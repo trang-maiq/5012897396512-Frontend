@@ -1,0 +1,35 @@
+{
+  "components": [
+    {
+      "id": "BannerWithButton"
+    },
+    {
+      "id": "NavbarSimple"
+    },
+    {
+      "id": "HeroWithOffsetImage"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "font": "",
+  "theme": "neo-brutal",
+  "title": "Yay: Chronicle Your Journey",
+  "subtitle": "Elevate your productivity with a touch of elegance. Share your thoughts, ideas, and achievements on a platform designed for sophistication."
+}
